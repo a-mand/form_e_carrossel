@@ -9,7 +9,6 @@ cd form_e_carrossel
 npm install
 npm start
 ```
-Abra http://localhost:3000.
 
 ## Tecnologias
 React (Create React App), JavaScript, HTML, CSS.
